@@ -44,8 +44,8 @@ h1{
     margin-left:-602px;
     border:1px dotted white;
     border-radius:50%;
-    animation: spin-left 14s alternate infinite;
-    -webkit-animation: spin-left 14s alternate infinite;
+    animation: spin-left 14s linear infinite;
+    -webkit-animation: spin-left 14s linear infinite;
 }
 
 #neptune-label{
@@ -72,8 +72,8 @@ h1{
     margin-left:-531px;
     border:1px dotted white;
     border-radius:50%;
-    animation: spin-left 15s alternate infinite;
-    -webkit-animation: spin-left 15s alternate infinite;
+    animation: spin-left 15s linear infinite;
+    -webkit-animation: spin-left 15s linear infinite;
 }
 
 #uranus-label{
@@ -99,8 +99,8 @@ h1{
     margin-left:-438px;
     border:1px dotted white;
     border-radius:50%;
-    animation: spin-left 13s alternate infinite;
-    -webkit-animation: spin-left 13s alternate infinite;
+    animation: spin-left 13s linear infinite;
+    -webkit-animation: spin-left 13s linear infinite;
 }
 
 #saturn-label{
@@ -121,14 +121,14 @@ h1{
 #jupiter-orbit{
     position: absolute;
     width: 655px;
-    height: 655px;
+    height: 656px;
     bottom: -238px;
     left:50%;
     margin-left:-328px;
     border:1px dotted white;
     border-radius:50%;
-    animation: spin-left 10s alternate infinite;
-    -webkit-animation: spin-left 10s alternate infinite;
+    animation: spin-left 10s linear infinite;
+    -webkit-animation: spin-left 10s linear infinite;
 }
 
 #jupiter-label{
